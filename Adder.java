@@ -23,6 +23,7 @@ static int add(int a, int b, int c)
 
 public static void main(String args[])
 {
+ System.out.println("Modified code");
  System.out.println(Adder.add(2,5));
  System.out.println(Adder.add(5,7,9));
  System.out.println(Adder.add(7.4f,8.4f));
